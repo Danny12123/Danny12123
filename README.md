@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I’m Daniel Acquah, you’re welcome to my page.
 
 # 💫 About Me:
 Results-driven and detail-oriented Full Stack Developer & Team Lead with 4–5 years of experience in the end-to-end design, development, and maintenance of robust, scalable web applications. Highly proficient in the modern frontend ecosystem (React.js, Next.js, Tailwind CSS, React Native) and backend technologies (Node.js, FastAPI, PostgreSQL, MongoDB).<br>Possesses deep expertise in architecting and implementing scalable backend systems, including microservices using Docker and other cloud-native technologies to ensure high availability, resilience, and efficient deployment pipelines.<br>A proven leader with a track record of managing cross-functional teams, driving complex projects to completion within agile environments, and delivering high-quality, performant software solutions. Adept at translating UI/UX designs into responsive, user-centric interfaces and building secure, optimized backend systems that power seamless user experiences.
